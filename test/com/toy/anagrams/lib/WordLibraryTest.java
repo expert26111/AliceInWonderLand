@@ -78,4 +78,7 @@ public class WordLibraryTest extends TestCase {
         return Arrays.equals(clearArray, scrambledArray);
     }
 
+   // hsdjkfh
+
 }
+//blalla i made a change
